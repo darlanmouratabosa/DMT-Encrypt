@@ -1,15 +1,14 @@
-header {
-    background: #1d1c21;
-    padding: 20px 0;
-}
-
-.caixa{
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
-}
-
-#logo{
-    width: auto;
-    height: auto;
-}
+/*body*/
+        header {
+            background: #1d1c21;
+            padding: 20px 0;
+    }
+        .caixa{
+            position: relative;
+            width: 940px;
+            margin: 0 auto;
+        }
+            #logo{
+                width: auto;
+                height: auto;
+            }
